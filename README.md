@@ -1,5 +1,9 @@
 In the project directory, run:
 
+### `npm i`
+
+and then
+
 ### `npm start`
 
 Runs the app in the development mode.\
